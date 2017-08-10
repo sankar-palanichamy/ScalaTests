@@ -1,0 +1,2 @@
+# ScalaTests
+My Scala tests
